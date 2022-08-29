@@ -1,0 +1,17 @@
+.filter {
+  padding: 40px 0;
+  width: 100%;
+  color: #82989f;
+  div {
+    border: 0.5px solid #1c1f27;
+    padding: 10px 35px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    img {
+      width: 8px;
+      height: 8px;
+    }
+  }
+}

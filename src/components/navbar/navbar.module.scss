@@ -1,2 +1,14 @@
 .navbar {
+  width: 150px;
+  height: 100%;
+  border: 1px solid #000;
+
+  & > div:first-of-type {
+    background-color: #72cdd2;
+    font-weight: bold;
+    div {
+      color: white;
+      font-weight: bold;
+    }
+  }
 }

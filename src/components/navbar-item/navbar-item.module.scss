@@ -1,0 +1,23 @@
+.navbar-item {
+  width: 100%;
+  height: 125px;
+  border-bottom: 1px solid #000;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+
+  color: white;
+  background-color: #313541;
+
+  img {
+    margin-bottom: 5px;
+  }
+
+  .title {
+    width: 100px;
+    line-height: 1;
+    color: #82989f;
+    text-align: center;
+  }
+}

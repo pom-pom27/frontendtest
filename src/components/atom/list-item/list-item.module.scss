@@ -1,0 +1,20 @@
+.list-item {
+  border-top: 0.5px solid #1c1f27;
+  padding: 20px 35px;
+  padding-right: 10px;
+  display: flex;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+  justify-content: space-between;
+  align-items: center;
+  img {
+    width: 8px;
+    height: 8px;
+  }
+}
+
+.selected {
+  color: #92d72e;
+  background-color: #1c1f27;
+}

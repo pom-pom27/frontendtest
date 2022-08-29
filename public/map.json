@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Merlion",
+    "lat": 1.28692,
+    "long": 103.85457,
+    "desc": "The Merlion is the official mascot of Singapore. It is depicted as a mythical creature with the head of a lion and the body of a fish.",
+    "img": "https://indonesiatraveler.id/wp-content/uploads/2020/09/Singapore-Merlion-Park2.jpg",
+    "address": "10 Bayfront Avenue,Singapore",
+    "website": "www.mariabanaysands.com"
+  },
+  {
+    "name": "Asian Civilisations Museum",
+    "lat": 1.287466,
+    "long": 103.851424,
+    "desc": "The Asian Civilisations Museum is an institution which forms a part of the four museums in Singapore, the other three being the Peranakan Museum at Old Tao Nan School, the National Museum of Singapore and the Singapore Art Museum.",
+    "img": "https://scholarship-positions.com/wp-content/uploads/2018/10/Asian-Civilisations-Museum.jpg",
+    "address": "1 Empress Pl, Singapore 179555",
+    "website": "www.mariabanaysands.com"
+  },
+  {
+    "name": "Clarke Quay",
+    "lat": 1.290555,
+    "long": 103.846188,
+    "desc": "Clarke Quay is a historical riverside quay in Singapore, located within the Singapore River Planning Area. The quay is situated upstream from the mouth of the Singapore River and Boat Quay.",
+    "img": "https://www.visitsingapore.com/id_id/walking-tour/eat-drink/drinking-clarke-quay-boat-quay/_jcr_content/par-carousel/carousel_detailpage/carousel/item_1.thumbnail.carousel-img.740.416.jpg",
+    "address": "3 River Valley Rd, Singapore 179024",
+    "website": "www.mariabanaysands.com"
+  },
+  {
+    "name": "Fort Canning Park",
+    "lat": 1.295526,
+    "long": 103.845331,
+    "desc": "Bunker dengan kedalaman 9 meter dibawah tanah di fungsikan sebagai pusat komando bagi tentara Inggris yang disebut Battlebox. Tempat perlindungan tersebut dibangun sekitar tahun 1930'an oleh Komando Malaya. Disebut sebagai tempat bersejarah karena telah berjasa menjadi markas bagi para tentara yang berjuang melindungi Singapura pada saat Perang Dunia II. ",
+    "img": "https://img.okezone.com/content/2022/05/08/406/2590637/fort-canning-park-spot-foto-paling-keren-di-singapura-J4jO5woVpV.jpg",
+    "address": "River Valley Rd, Singapore 179037",
+    "website": "www.mariabanaysands.com"
+  },
+  {
+    "name": "Orchard Road",
+    "lat": 1.302279,
+    "long": 103.837399,
+    "desc": "Orchard Road is Singapore’s retail heart, with discount outlets, department stores and upscale boutiques, alongside luxury hotels. Emerald Hill Road is a mix of colorful Chinese baroque houses and casual pubs, while al fresco bars and eateries can be found along nearby Cuppage Terrace. The Newton Food Centre is a popular foodie hub, offering everything from barbecued seafood and roasted meats to traditional desserts.",
+    "img": "https://www.visitsingapore.com/id_id/see-do-singapore/places-to-see/orchard/_jcr_content/par-carousel/carousel_detailpage/carousel/item_1.thumbnail.carousel-img.740.416.jpg",
+    "address": "437 Orchard Road, Singapore 238878",
+    "website": "www.mariabanaysands.com"
+  },
+  {
+    "name": "Singapore Flyer",
+    "lat": 1.289332,
+    "long": 103.863152,
+    "desc": "The Singapore Flyer is an observation wheel at the Downtown Core district of Singapore. Officially opened on 15 April 2008, it has 28 air-conditioned capsules, each able to accommodate 28 passengers, and incorporates a three-story terminal building.",
+    "img": "https://www.visitsingapore.com/id_id/see-do-singapore/recreation-leisure/viewpoints/singapore-flyer/_jcr_content/par-carousel/carousel_detailpage/carousel/item0.thumbnail.carousel-img.740.416.jpg",
+    "address": "30 Raffles Ave., Singapore 039803",
+    "website": "www.mariabanaysands.com"
+  },
+  {
+    "name": "Marina Bay Sands",
+    "lat": 1.283099,
+    "long": 103.860295,
+    "desc": "asd",
+    "img": "https://id.marinabaysands.com/content/dam/singapore/marinabaysands/master/main/home/plan-your-visit/mbs-exterior-view-daylight-780x375.jpg",
+    "address": "10 Bayfront Ave, Singapore 018956",
+    "website": "www.mariabanaysands.com"
+  },
+  {
+    "name": "Gardens By The Bay",
+    "lat": 1.28179,
+    "long": 103.863954,
+    "desc": "The Gardens by the Bay is a nature park spanning 101 hectares in the Central Region of Singapore, adjacent to the Marina Reservoir. The park consists of three waterfront gardens: Bay South Garden, Bay East Garden and Bay Central Garden.",
+    "img": "https://www.visitsingapore.com/id_id/see-do-singapore/architecture/modern/gardens-by-the-bay/_jcr_content/par-carousel/carousel_detailpage/carousel/item0.thumbnail.carousel-img.740.416.jpg",
+    "address": "18 Marina Gardens Dr, Singapore 018953",
+    "website": "www.mariabanaysands.com"
+  },
+  {
+    "name": "Chinatown",
+    "lat": 1.284193,
+    "long": 103.843362,
+    "desc": "Chinatown's maze of narrow roads includes Chinatown Food Street, with its restaurants serving traditional fare like Hainanese chicken rice, noodles and satay. Souvenir shops and indie boutiques dot the area, offering clothes, crafts and antiques, while Club Street is full of trendy wine bars. Cultural institutions here include the 1827 Sri Mariamman Temple and the ornate Buddha Tooth Relic Temple and Museum.",
+    "img": "https://www.visitsingapore.com/id_id/walking-tour/culture/in-the-neighbourhood-chinatown/_jcr_content/par-carousel/carousel_detailpage/carousel/item1.thumbnail.carousel-img.740.416.jpg",
+    "address": "2 Banda Street, Singapura 059962",
+    "website": "www.mariabanaysands.com"
+  }
+]
