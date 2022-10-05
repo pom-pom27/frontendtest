@@ -1,6 +1,7 @@
 // @ts-ignore
 import { GoogleMap, LoadScript, OverlayView } from "@react-google-maps/api";
 import { memo, useRef } from "react";
+import { api } from "../../../util/API_KEY";
 import appStore from "../../../util/appState";
 import InfoPlace from "../info-place/InfoPlace";
 import styles from "./map-view.module.scss";
@@ -44,7 +45,7 @@ const MapView = ({}: IMapView) => {
   const setIsShow = appStore((state) => state.setIsShow);
 
   return (
-    <LoadScript googleMapsApiKey="AIzaSyBY5nXkhbFRBGfECVOuJXAaHpZcW5oa_GY">
+    <LoadScript googleMapsApiKey={api}>
       <GoogleMap
         center={{
           lat: selectedPlace?.lat ?? 1.28692,
